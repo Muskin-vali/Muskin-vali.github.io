@@ -1,7 +1,7 @@
 
 
 ## 🌐 Live Preview
-[View Live Website](https://Muskin-vali.github.io.github.io/)
+[View Live Website](https://Muskin-vali.github.io.github.io/index.html)
 
 > Replace the link above with your GitHub Pages live URL after deploying.
 
